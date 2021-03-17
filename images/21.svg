@@ -1,17 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 22.489583 13.229167"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="85"
    height="50"
-   width="85">
+   viewBox="0 0 22.489583 13.229167"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="21.svg">
   <defs
      id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="50.749254"
+     inkscape:cy="39.274828"
+     inkscape:document-units="mm"
+     inkscape:current-layer="text817"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -25,17 +50,24 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-283.77082)"
-     id="layer1">
-    <text
-       id="text817"
-       y="296.41977"
-       x="0.44690287"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.87961197px;line-height:1.25;font-family:Lemon;-inkscape-font-specification:Lemon;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.44699028;"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lemon;-inkscape-font-specification:Lemon;stroke-width:0.44699028;fill:#ffffff;"
-         y="296.41977"
-         x="0.44690287"
-         id="tspan815">21</tspan></text>
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-283.77082)">
+    <g
+       aria-label="21"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.87961197px;line-height:1.25;font-family:Lemon;-inkscape-font-specification:Lemon;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.44699028"
+       id="text817">
+      <path
+         d="m 4.8095282,295.84762 q -1.1800544,0.91186 -2.1813127,0.91186 -1.0012582,0 -1.4840078,-0.59003 -0.48274949,-0.59002 -0.48274949,-1.51976 0,-0.94762 0.76882329,-1.73432 0.786703,-0.80459 2.1097942,-0.80459 0.4112311,0 0.8045826,0.0894 1.519767,-1.28733 2.2707107,-2.23495 0.7509437,-0.94762 0.7509437,-1.64492 0,-0.71519 -0.3933515,-1.09066 -0.3754718,-0.37547 -1.0191378,-0.37547 -1.0548971,0 -1.6806836,0.98338 -0.3039534,0.44699 -0.5363883,1.12641 -0.8045826,-0.0894 -1.2158136,-0.55427 -0.4112311,-0.46487 -0.4112311,-1.16217 0,-1.34097 1.287332,-2.34223 1.3052117,-1.00126 3.9513943,-1.00126 2.163433,0 3.2362099,1.03702 1.090656,1.01914 1.090656,2.36011 0,2.37799 -4.2374678,5.70359 1.5376466,0.25032 2.4137476,0.25032 l 2.0919142,-0.80458 q 0.196676,0.82246 0.196676,1.50188 0,1.46613 -0.804582,2.1992 -0.804583,0.71518 -1.9488781,0.71518 -1.1442952,0 -2.1276739,-0.25031 -0.965499,-0.23244 -2.4495068,-0.76883 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lemon;-inkscape-font-specification:Lemon;fill:#ffffff;stroke-width:0.44699028"
+         id="path819"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 16.446362,293.82723 q 0,-1.10854 0.750944,-4.86326 -1.215814,0 -2.091915,-0.67942 -0.858221,-0.67943 -1.037017,-2.1098 1.448248,-0.28607 2.73558,-0.85822 1.305212,-0.59003 2.181313,-1.00126 0.876101,-0.41123 1.573406,-0.41123 1.269452,0 1.269452,1.43037 0,0.8761 -0.697305,4.07655 -0.697305,3.18257 -0.697305,4.5593 0,1.35885 0.518509,2.23495 -1.197934,0.66155 -2.28859,0.66155 -2.217072,0 -2.217072,-3.03953 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lemon;-inkscape-font-specification:Lemon;fill:#ffffff;stroke-width:0.44699028"
+         id="path821"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>
