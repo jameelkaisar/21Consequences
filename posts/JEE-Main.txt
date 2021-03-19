@@ -1,0 +1,76 @@
+
+<h1 align="center" style="color: #5a5a5a;">
+<b>
+JEE Main
+</b>
+</h1>
+<br>
+
+-----
+
+<small style="color: #888888;">
+Last Updated on March 19, 2021 by Jameel Kaisar
+</small>
+
+-----
+
+<br>
+
+
+## JEE Main
+Joint Entrance Examination – Main (JEE-Main), formerly All India Engineering Entrance Examination (AIEEE), is an all India examination conducted by the National Testing Agency (NTA). Introduced in the year 2002 and renamed in April 2013, for admission to various undergraduate engineering and architecture courses in various institutes notably, National Institutes of Technology (NITs), Indian Institutes of Information Technology (IIITs) and Government Funded Technical Institutes (GFTIs).
+
+Until 2018, JEE-Main was held in the first week of April by the Central Board of Secondary Education (CBSE). In 2018 the exam was held both in pen-paper as well as CBT mode. From 2021 , the exam will be conducted 4 times a year.
+
+-----
+
+## Structure
+The examination consists of only two papers: Paper 1 for B.E./BTech courses and Paper 2 for BArch and BPlanning courses. A candidate can opt for any or both the papers. Paper 1 is mandatorily a computer based test (called Online mode) from 2019. Till 2018, there was an option between OMR based and computer based mode. The examination was conducted in offline pen and paper mode till 2010. In 2011, as per the orders of the Ministry of Human Resource Development, CBSE conducted Paper 1 in Computer-Based-Test mode for the first one lakh candidates who opted for the same, while the remaining students took the examination in the conventional pen and paper mode. The number of attempts which a candidate can avail at the examination is limited to three in consecutive years. As of 2018, the top 2,24,000 rankers of JEE (Main) will qualify to take the second and final level of examination: JEE (Advanced).
+
+In 2010 the Ministry of Human Resource Development announced plans to replace JEE by 2013 with a common entrance test for all government engineering colleges which will be called Indian Science Engineering Eligibility Test (ISEET). Accordingly, MHRD proposes to set up National Testing Service, which will be an autonomous and self-sustained agency to conduct this new common entrance test.
+
+-----
+
+## Languages
+The exam is offered in English, Hindi and Gujarati. From January 2021, it will be offered in thirteen languages, namely Assamese, Bengali, English, Gujarati, Hindi, Kannada , Malayalam , Marathi, Odiya, Punjabi , Tamil, Urdu and Telugu.
+
+-----
+
+## Mode of exam
+* **B.E. /B. Tech. (Paper 1)** Physics, Chemistry and Math, part 1, 2 and 3 respectively will be conducted in Computer Based Test mode only.
+* **B. Arch (Paper 2)** mathand Aptitude Test, part 1 and 2 respectively will be held in Computer Based Test mode only. While Drawing Test or part 3 will be in offline mode on drawing sheet.
+* **B. Planning (Paper 3)** Mathematics, Aptitude Test and Planning Based Questions, part 1, 2 and 3 respectively will be held in Computer Based Test mode only.
+
+-----
+
+## Participating institutes
+Institutes participating in the 2017 centralized seat allocation process included:
+* The 31 National Institutes of Technology
+* The 27 Indian Institutes of Information Technology
+* 19 other central government funded institutions including the three Schools of Planning and Architecture.
+* Several self-financed institutes (during the spot round).
+* Many State affliated Colleges fill some small percentage of seats through JEE main.
+* Many other institutes used JEE (Main) ranks to fill seats through their own seat allocation processes including Amrita School of Engineering and Thapar University.
+
+-----
+
+## Counselling
+Earlier, counselling for JEE Main was conducted through CSAB but now officials have made changes in the counselling procedure. The JAB (Joint Admission Board), representing IITs and CSAB (Central Seat Allocation Board), are making agreements on the behalf of NITs and other CFTIs, and are now united to conduct counselling (common counselling) for the two exams of JEE. The memo for the same was signed on May 2, 2015. These two together will be known as the Joint Seat Allocation Authority (JoSAA).
+
+-----
+
+## Number of applicants by year
+
+| Year | Phase | Number of applicants |
+| -------- | -------- | -------- |
+| 2020  | 2 | 858,273 |
+| 2020  | 1 | 921,261 |
+| 2019  | 2 | 935,741 |
+| 2019  | 1 | 929,198 |
+| 2018  | 1 | 1,259,000 |
+| 2017  | 1 | 1,186,454 |
+| 2016  | 1 | 1,194,938 |
+| 2015  | 1 | 1,304,495 |
+| 2014  | 1 | 1,356,805 |
+| 2013  | 1 | 1,282,000 |
+| 2012  | 1 | 1,220,000 |
