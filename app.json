@@ -2,5 +2,10 @@
    "name": "consequences-website",
    "description": "21Consequences Website",
    "repository": "https://github.com/JameelKaisar/21Consequences",
-   "stack": "heroku-22"
+   "stack": "heroku-22",
+   "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ],
 }
